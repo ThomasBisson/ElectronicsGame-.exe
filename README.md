@@ -4,10 +4,10 @@ It's the .exe of the game Electronics Game if you don't have Unity or if you jus
 
 Game's command :
 
-z or up : go forward
-s or down : go backward
-q or left : go left
-d or right : go right
+z or up : go forward - 
+s or down : go backward - 
+q or left : go left - 
+d or right : go right - 
 
 e : open inventory
      There's no images for the moment so here the order
