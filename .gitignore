@@ -32,3 +32,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+!ElectronicsEngineer.exe
+!ElectronicsEngineer_Data
+!mono.dll
+!MonoPosixHelper.dll
+!UnityPlayer.dll
+!*.dll
