@@ -15,8 +15,8 @@ e : open inventory
        2)Batery 2
        3)Red wire (+24V or +12V for example)
        4)Blue wire (GND)
-       5)White wire (a wire the combine red and blue wire)
+       5)White wire (a wire that combine red and blue wire)
        6)Led
 Left click :put the component on the ground
 
-button run : run the system and see if it works. The game is in creation so the only system that works is a Led next to a battery.
+button run : run the system and see if it works. For now you can make a small system with Wire VGND and LED.
