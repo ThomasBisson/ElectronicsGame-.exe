@@ -22,10 +22,17 @@ e : open inventory
        10)Button
        
 Left click : put the component on the ground
+
 Shift + right click : delete the component on the ground
+
 R + right click : rotate component
-escape : exit : Exit the game
-         Options : You can modify the sound
+
+escape : 
+
+exit : Exit the game
+
+
+Options : You can modify the sound
 
 button run : run the system and see if it works. For now you can make a small system with Wire VGND and LED.
 button night/day : switch between night and day
