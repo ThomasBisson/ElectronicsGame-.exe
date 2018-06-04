@@ -17,10 +17,15 @@ e : open inventory
        5)White wire (a wire that combine red and blue wire)
        6)Led
        7)Transistor (not implemented yet)
-       8)Bridge (not implemented yet)
+       8)Bridge Open (not implemented yet)
+       9)Bridge Close (not implemented yet)
+       10)Button
        
 Left click : put the component on the ground
-Shift + eft click : delete the component on the ground
+Shift + right click : delete the component on the ground
+R + right click : rotate component
+escape : exit : Exit the game
+         Options : You can modify the sound
 
 button run : run the system and see if it works. For now you can make a small system with Wire VGND and LED.
 button night/day : switch between night and day
